@@ -3,6 +3,7 @@
 # ----------------------- #
 
 url: http://yoursite.com
+baseurl: /GoSheng
 title: Your Awesome Site
 email: your-email@domain.com
 author: Your Name
@@ -32,3 +33,5 @@ social:
     url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
     url: 
+
+exclude: ['README.md']
