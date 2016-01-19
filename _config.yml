@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.gaoshenghuagong.com
-baseurl: /GoSheng
+url: http://yoursite.com
+baseurl: http://joeyisnotcodemonkey.github.io/GoSheng
 title: 高盛化工
 email: your-email@domain.com
 author: Your Name
@@ -18,7 +18,7 @@ copyright: 'Copyright &copy; 2015 Anhui GoShen Chemical Co., Ltd. All Rights Res
 # ----------------------- #
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
 
 # ----------------------- #
