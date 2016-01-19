@@ -5,6 +5,8 @@ category: Services
 title: 邻苯二胺
 description: |
 ---
-  <p>此处写一些邻苯二胺的介绍。</p>
-  <p>blablabla...</p>
-  <a href="http://join.deathtothestockphoto.com//">了解更多</a>
+  <p>ISO通用名称：0—phey1enediamine diamin</p>
+  <p>化学名称：1、2——二氨基苯</p>
+  <p>英文名称：1，2—piaminobenzene</p>
+  <p><a href="http://join.deathtothestockphoto.com//">了解更多</a></p>
+  

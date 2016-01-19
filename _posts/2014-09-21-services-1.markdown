@@ -5,6 +5,8 @@ category: Services
 title: 对苯二胺
 description: |
 ---
-  <p>此处写一些对苯二胺的介绍。</p>
-  <p>blablabla...</p>
-  <a href="http://join.deathtothestockphoto.com//">了解更多</a>
+  <p>ISO通用名称：O—phey1enediamine diamine</p>
+  <p>化学名称：1，4——二氨基苯  1，4—苯二胺</p>
+  <p>英文名称：P-phenyIene diamine： 1，4—diaminobenzene</p>
+  <p><a href="http://join.deathtothestockphoto.com//">了解更多</a></p>
+  
