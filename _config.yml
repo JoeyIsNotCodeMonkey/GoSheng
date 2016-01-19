@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://www.gaoshenghuagong.com
-baseurl: http://gaoshenghuagong.com
+baseurl: /GoSheng
 title: 高盛化工
 email: your-email@domain.com
 author: Your Name
@@ -18,7 +18,7 @@ copyright: 'Copyright &copy; 2015 Anhui GoShen Chemical Co., Ltd. All Rights Res
 # ----------------------- #
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
 
 # ----------------------- #
