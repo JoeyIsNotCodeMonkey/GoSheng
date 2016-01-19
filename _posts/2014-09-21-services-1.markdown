@@ -1,8 +1,10 @@
 ---
 layout: default
-img: ipad.png
+img: duiben.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 对苯二胺
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  <p>此处写一些对苯二胺的介绍。</p>
+  <p>blablabla...</p>
+  <a href="http://join.deathtothestockphoto.com//">了解更多</a>
