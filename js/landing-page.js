@@ -29,3 +29,21 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+//expand/collapse
+$(document).ready(function(){
+  $("#company_info").on("hide.bs.collapse", function(){
+    $(".company_info").html('<span class="glyphicon glyphicon-collapse-down"></span> 了解更多');
+  });
+  $("#company_info").on("show.bs.collapse", function(){
+    $(".company_info").html('<span class="glyphicon glyphicon-collapse-up"></span> 收起');
+  });
+
+  //ppd
+  $("#ppd").on("hide.bs.collapse", function(){
+    $(".ppd").html('<span class="glyphicon glyphicon-collapse-down"></span> 了解更多');
+  });
+  $("#ppd").on("show.bs.collapse", function(){
+    $(".ppd").html('<span class="glyphicon glyphicon-collapse-up"></span> 收起');
+  });
+});
