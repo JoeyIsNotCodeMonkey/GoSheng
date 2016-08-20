@@ -46,7 +46,7 @@ $(document).ready(function(){
   $("#ppd").on("show.bs.collapse", function(){
     $(".ppd").html('<span class="glyphicon glyphicon-collapse-up"></span> 收起');
   });
-
+  
   //lingben
   $("#lingben").on("hide.bs.collapse", function(){
     $(".lingben").html('<span class="glyphicon glyphicon-collapse-down"></span> 了解更多');

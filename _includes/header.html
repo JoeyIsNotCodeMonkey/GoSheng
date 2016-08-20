@@ -9,14 +9,14 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#home">{{ site.title }}</a>
+            <a class="navbar-brand page-scroll" href="#home"><img class="logo" src="{{ site.baseurl }}/img/logo.jpg">{{ site.title }}</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">  
+            <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a class="page-scroll" href="#about">关于我们</a>
-                </li>            
+                </li>
                 <li>
                     <a class="page-scroll" href="#services">产品服务</a>
                 </li>
@@ -46,7 +46,7 @@
                             {% for social in site.social %}
                             <li>
                                 <a href="{{ social.url }}" class="btn btn-default btn-lg" data-toggle="modal" data-target=".pop-up-1">
-                                    <i class="fa fa-{{ social.title }} fa-fw"></i> 
+                                    <i class="fa fa-{{ social.title }} fa-fw"></i>
                                     <span class="network-name">{{ social.title }}</span>
                                 </a>
                             </li>
@@ -64,17 +64,6 @@
 
     <!--  Modal content for the mixer image example -->
   <div class="modal fade pop-up-1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-1" aria-hidden="true">
-    <div class="modal-dialog modal-lg" style="width: 400px; height: 600px">
-      <div class="modal-content">
-
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title" id="myLargeModalLabel-1" style="text-align: center;">扫一扫添加我们</h4>
-        </div>
-        <div class="modal-body">
-        <img src="http://photocdn.sohu.com/20130607/Img378343664.jpg" class="img-responsive img-rounded center-block">
-        </div>
-      </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
+        <img src="img/GoShen_QR_Code.jpg" class="img-responsive img-rounded center-block">
   </div><!-- /.modal mixer image -->
 </section>
